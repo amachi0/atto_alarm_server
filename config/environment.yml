@@ -1,4 +1,0 @@
-MORNING_TOPIC: ${self:custom.morning_topic.${self:provider.stage}}
-ONE_HOUR_AGO_TOPIC: ${self:custom.one_hour_ago_topic.${self:provider.stage}}
-
-SLACK_WEB_HOOK_URL: https://hooks.slack.com/services/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

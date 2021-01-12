@@ -24,4 +24,5 @@ node_modules
 __pycache__
 /cover/
 /.coverage
+config
 firebase-adminsdk.json
