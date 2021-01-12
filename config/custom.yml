@@ -1,0 +1,7 @@
+morning_topic:
+  dev: dev_morning
+  prod: morning
+
+one_hour_ago_topic:
+  dev: dev_one_hour_ago
+  prod: one_hour_ago
